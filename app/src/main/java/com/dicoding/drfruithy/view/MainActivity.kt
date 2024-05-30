@@ -1,4 +1,4 @@
-package com.dicoding.drfruithy
+package com.dicoding.drfruithy.view
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
